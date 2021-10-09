@@ -2,7 +2,7 @@
 # Project Title: Message in the Music- Darlene
 ![Darlene Groove](groove.jpg)
 ## Description
-This wesite will showcase the talents of Darlene thought a variety of interesting visual and audio components.   
+This wesite will showcase the talents of Darlene through a variety of interesting visual and audio components.   
 
 **features**
  * Utilize HTML, CSS and Javascript
