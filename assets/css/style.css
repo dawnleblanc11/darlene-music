@@ -77,14 +77,4 @@ p {
     color: black;
 }
 /* Image Section with Subtitle Style End  */
-.carousel-item h2 {
-    font-size: 75px;
-    color: black;
-    
-}
-.carousel-control-next-icon {
-    color: black;
-}
-carousel-control-prev-icon {
-    color: black;
-}
+
